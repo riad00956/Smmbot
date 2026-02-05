@@ -1,0 +1,4 @@
+# requirements.txt
+python-telegram-bot==20.7
+sqlite3
+python-dotenv
